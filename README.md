@@ -25,9 +25,10 @@ Understanding basketball metrics for AI 1: https://link.springer.com/article/10.
 
 Understanding basketball metrics for AI 2: https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/
 
-
 Ideas for later: 
 
 Add statistical trends from recent games or include a pattern recognition system that identifies opposing player strategies such as play types run, where they shoot on the floor, etc.
 
 Implement AI algorithms to do in-depth analysis of player and team stats for an advanced scouting feature.
+
+* linguist-language=Python
